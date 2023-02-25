@@ -5,7 +5,7 @@
 [своих репозиториев на Github](https://github.com/zinal/).
 
 Заведомо неполный список материалов:
-* [материалы по использованию Yandex Data Proc](https://github.com/zinal/yc-dataproc-snippets)
+* [материалы по использованию Yandex Data Proc](/yc-dataproc-snippets/)
 * [материалы по IBM Db2 на русском](/Db2-Russian/)
 * [материалы по IBM Optim на русском](/Optim-Russian/)
 
